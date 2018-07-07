@@ -1,5 +1,6 @@
 # vimrc
-```set nu
+```shell
+set nu
 set smarttab cindent
 let &tabstop=4
 let &softtabstop=4
@@ -9,4 +10,5 @@ set list
 set listchars=tab:│\ ,trail:•,extends:❯,precedes:❮
 set shiftround
 set linebreak
-let &showbreak='↪ '```
+let &showbreak='↪ '
+```
